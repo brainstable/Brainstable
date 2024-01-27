@@ -1,10 +1,14 @@
-### Hi, my name is Sergey!
+## Hi, my name is Sergey!
 
+### МетеоГСУ
+#### C#, WinForms
+##### Программа предназначена для просмотра и анализа многолетних метеонаблюдений. Данные можно брать с сайта rp5, для была написана дополнительно программа для чтения архивных данных, их разбора и объединения нескольких файлов с выходом файла того же формата без пересечения данных 
 
-![1](brainstable\images\метеогсу\1.PNG "1")
-![2](brainstable\images\метеогсу\2.PNG "2")
-![3](brainstable\images\метеогсу\3.PNG "3")
-![4](brainstable\images\метеогсу\4.PNG "4")
+|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/1.PNG)|![2](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/2.PNG)|
+|-|-|
+|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/3.PNG)|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/4.PNG)|
+|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/5.PNG)|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/6.PNG)|
+|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/7.PNG)|![1](https://github.com/brainstable/brainstable/blob/main/images/meteo_gsu/8.PNG)|
 
 
 

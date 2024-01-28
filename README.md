@@ -1,6 +1,8 @@
 ## Hi, my name is Sergey! I am developer C#
 
-![My Portfolio](https://github.com/brainstable/portfolio) 
+### Links
+
+[My Portfolio](https://github.com/brainstable/portfolio)
 
 ### My technological stack
 

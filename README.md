@@ -1,5 +1,7 @@
 ## Hi, my name is Sergey! I am developer C#
 
+![My Portfolio](https://github.com/brainstable/portfolio) 
+
 ### My technological stack
 
 #### Programming Languages
@@ -68,7 +70,7 @@
 
 ### My contributions and stats
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=brainstable") 
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=brainstable) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainstable&hide_progress=true)
 

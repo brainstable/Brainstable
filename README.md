@@ -2,7 +2,7 @@
 
 ### Links
 
-[My Portfolio](https://github.com/brainstable/portfolio)
+### ***[My Portfolio](https://github.com/brainstable/portfolio)***
 
 ### My technological stack
 

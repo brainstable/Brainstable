@@ -56,4 +56,4 @@
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=brainstable) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainstable&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

@@ -1,6 +1,15 @@
 ## Hi, my name is Sergey! I am developer C#
 
-![My Portfolio](https://github.com/brainstable/portfolio) 
+### Links
+
+<div>
+  <div>
+    <a href="https://github.com/brainstable/portfolio">My portfolio</a>
+  </div>
+  <div>
+    <a href="http://brainstable.ru">brainstable.ru</a>
+  </div>
+</div>
 
 ### My technological stack
 
